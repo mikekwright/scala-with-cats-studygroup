@@ -2,8 +2,9 @@ Scala with Cats - Study Group
 =====================================================================
 
 Try out my notebooks with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikekwright/scala-with-cats-studygroup/master)
-the binder link is
-(https://mybinder.org/v2/gh/mikekwright/scala-with-cats-studygroup/master)[https://mybinder.org/v2/gh/mikekwright/scala-with-cats-studygroup/master]  
+the binder link is:  
+
+  (https://mybinder.org/v2/gh/mikekwright/scala-with-cats-studygroup/master)[https://mybinder.org/v2/gh/mikekwright/scala-with-cats-studygroup/master]  
 
 ## Code version
 
